@@ -19,6 +19,7 @@
   "dependencies": {
     "express": "4.17.1",
     "lodash": "4.17.20",
-    "apache-crypt": "1.2.4"
+    "apache-crypt": "1.2.4",
+    "globby": "11.0.1"
   }
 }
